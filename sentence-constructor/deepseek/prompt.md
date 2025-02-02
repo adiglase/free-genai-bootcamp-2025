@@ -34,11 +34,10 @@ Here are example of user input and assistant output
         |garden     | 花园     | huāyuán  | Noun |
         
         Sentence structure:
-        [Subject] [Time] [Verb-past] [Object]? [Subject] [Verb-progressive] [Object].
+        [Subject] [Time] [Verb] [Object]? [Subject] [Verb] [Object].
 
         Considerations:
         This is a compound sentence with two parts
-        Chinese doesn't change verb forms for tense; time is indicated by context or time words
         The first part is asking about a past action
         The second part is describing a continuous action in the past
         "They" refers to the ravens (plural)
